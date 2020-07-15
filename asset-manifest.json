@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tarannum/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tarannum/static/js/main.ac85b619.chunk.js",
+    "main.js.map": "/tarannum/static/js/main.ac85b619.chunk.js.map",
+    "runtime-main.js": "/tarannum/static/js/runtime-main.9f20f739.js",
+    "runtime-main.js.map": "/tarannum/static/js/runtime-main.9f20f739.js.map",
+    "static/js/2.5b0c0ca7.chunk.js": "/tarannum/static/js/2.5b0c0ca7.chunk.js",
+    "static/js/2.5b0c0ca7.chunk.js.map": "/tarannum/static/js/2.5b0c0ca7.chunk.js.map",
+    "index.html": "/tarannum/index.html",
+    "precache-manifest.d1e01821e56036b2b54519b1760216cd.js": "/tarannum/precache-manifest.d1e01821e56036b2b54519b1760216cd.js",
+    "service-worker.js": "/tarannum/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tarannum/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5b0c0ca7.chunk.js.LICENSE.txt": "/tarannum/static/js/2.5b0c0ca7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tarannum/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f20f739.js",
+    "static/js/2.5b0c0ca7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ac85b619.chunk.js"
+  ]
+}
